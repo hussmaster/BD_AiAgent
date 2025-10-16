@@ -1,0 +1,1 @@
+This is a Python AI agent created as part of the Boot.Dev course. It is designed to interact with the environment through a defined API, allowing it to perform tasks such as file system navigation and code execution. The agent leverages its capabilities to solve problems and automate processes, making it a valuable tool for various development workflows. Enjoy!
